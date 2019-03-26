@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1553100522 source:c:\users\you\documents\c++\magnainterview\main.cpp
+	<iostream>
+	<cstddef>
+	"main.h"
+
+1553100828 c:\users\you\documents\c++\magnainterview\main.h
+	<iostream>
+	<vector>
+	<cstddef>
+	<algorithm>
+	<numeric>
+	<string>
+	<functional>
+	<memory>
+
